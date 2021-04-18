@@ -116,36 +116,3 @@ lib
 │   └── widgets
 └── test
 ```
-
-<!-- GETTING STARTED -->
-
-**Task List**
-
-| sl no. | Task                                    | Assignee | Progress |
-| ------ | --------------------------------------- | -------- | -------- |
-| 1      | Set up firebase                         | Akhil    | Yes      |
-| 2      | Database Design                         | Sameer   | Yes      |
-| 3      | UI Design                               | Vanshika | Yes      |
-| 4      | DashBoard                               | Akanksha | Yes      |
-| 5      | find a Mate                             | Akhil    | Yes      |
-| 6      | Adopt don't shop                        | Vamsi    | Yes      |
-| 7      | Discussions                             | Vamsi    | Yes      |
-| 8      | Store                                   | Akanksha | Yes      |
-| 9      | Lost and found                          | Akanksha | Yes      |
-| 10     | Authentication with firebase            | Sameer   | Yes      |
-| 11     | Vet and Consultation                    | Akhil    | Yes      |
-| 12     | For Hire                                | Akhil    | Yes      |
-| 13     | Train your pets, Health tips and tricks | Akanksha | Yes      |
-| 14     | Auth View                               | Sameer   | Yes      |
-| 15     | Drawer, Profile View                    | Sameer   | Yes      |
-| 16     | My Pets                                 | Sameer   | Yes      |
-
-## Team:
-
-| S.No. | Team Member Name | GitHub Username                                        |
-| ----- | ---------------- | ------------------------------------------------------ |
-| 1.    | Sameer Kashyap   | [@Sameerkash](https://github.com/Sameerkash)           |
-| 2.    | Akanksha Singh   | [@Akanksha1212](https://github.com/Akanksha1212)       |
-| 3.    | Vanshika Garg    | [@Vanshikagarg17](https://github.com/Vanshikagarg17)   |
-| 4.    | Akhil Pasumarthi | [@akhilpasumarthi](https://github.com/akhilpasumarthi) |
-| 5.    | Vamsidhar Reddy  | [@vamsidhar1999](https://github.com/vamsidhar1999)     |
